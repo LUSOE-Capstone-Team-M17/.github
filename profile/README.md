@@ -22,12 +22,6 @@ This project blends **modal analysis, signal processing, finite element analysis
 ## 🗂 Repository Structure  
 The organization will contain several repositories, each dedicated to a specific aspect of the project:  
 
-- **`digital-twin-calibration`** – Scripts, models, and documentation for refining and validating the ANSYS Digital Twin.  
-- **`signal-processing`** – Tools for preprocessing, feature extraction, and analysis of vibration data.  
-- **`ml-classification`** – Machine learning pipeline for training, testing, and evaluating classification models.  
-- **`documentation`** – Meeting notes, research summaries, references, and final reports.  
-
-Each repository contains its own `README.md` with setup instructions and details.  
 
 ---
 
