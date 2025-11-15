@@ -1,4 +1,4 @@
-# Team 17 – Machine Learning Classification of Structural Dynamics  
+# Team M17 – Machine Learning Classification of Structural Dynamics  
 
 Welcome to the GitHub organization for **Team 17** of Liberty University’s School of Engineering Senior Capstone Project (2025–2026).  
 This repository space houses all source code, documentation, and resources related to our work with **Framatome, Inc.** on the project:  
