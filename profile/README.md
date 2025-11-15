@@ -39,8 +39,8 @@ The organization will contain several repositories, each dedicated to a specific
 - **Computer Engineering**: PARK Cayden, PONDEL William
 
 **Faculty Mentors:**  
-- Dr. Kyung Bae, Electrical Engineering (Signal Processing)  
-- Dr. Hyunjoong Kim, Civil Engineering (Structural Harmonics)  
+- BAE Kyung (PhD), Electrical Engineering (Signal Processing)  
+- KIM Hyunjoong (PhD), Civil Engineering (Structural Harmonics)  
 
 **Industry Partner (Framatome):**  
 - RONALDSON Aaron – Point of Contact
