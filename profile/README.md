@@ -34,16 +34,17 @@ The organization will contain several repositories, each dedicated to a specific
 ---
 
 ## 👥 Team Members  
-- **Mechanical Engineering**: [Names Here]  
-- **Electrical Engineering**: [Names Here]  
-- **Computer Engineering**: [Names Here]  
+- **Mechanical Engineering**: TOZER Joshua, VOGAN Sam
+- **Electrical Engineering**: MILLER Jared, MOUNT Gavin
+- **Computer Engineering**: PARK Cayden, PONDEL William
 
 **Faculty Mentors:**  
-- Prof. [Name], Electrical Engineering (Signal Processing)  
-- Prof. [Name], Civil Engineering (Structural Harmonics)  
+- Dr. Kyung Bae, Electrical Engineering (Signal Processing)  
+- Dr. Hyunjoong Kim, Civil Engineering (Structural Harmonics)  
 
 **Industry Partner (Framatome):**  
-- Aaron Ronaldson – Point of Contact  
+- RONALDSON Aaron – Point of Contact
+- RANDALL Tanner
 
 ---
 
@@ -55,7 +56,7 @@ The organization will contain several repositories, each dedicated to a specific
 ---
 
 ## 📫 Contact  
-If you are part of Liberty University faculty, the client team at Framatome, or a member of Team 17, please use the GitHub discussions or contact us directly through our LU emails.  
+If you are part of Liberty University faculty, the client team at Framatome, or a member of Team 17, please use the GitHub discussions or contact us directly through LU email (jemiller27@liberty.edu)
 
 ---
 
